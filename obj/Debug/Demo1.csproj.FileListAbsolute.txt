@@ -1,0 +1,103 @@
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.csproj.GenerateResource.cache
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\Demo1.exe.config
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\Demo1.exe
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\Demo1.pdb
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\RestSharp.dll
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.Buffers.dll
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.CodeDom.dll
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.Memory.dll
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.Text.Json.dll
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.ValueTuple.dll
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\RestSharp.xml
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.Buffers.xml
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.CodeDom.xml
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.Memory.xml
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.Text.Json.xml
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\System.ValueTuple.xml
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.csproj.Up2Date
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.exe
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.pdb
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Toan\OneDrive\Máy tính\Demo1\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\Demo1.exe.config
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\Demo1.exe
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\Demo1.pdb
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\RestSharp.dll
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.Buffers.dll
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.CodeDom.dll
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.Memory.dll
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.Text.Json.dll
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.ValueTuple.dll
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\RestSharp.xml
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.Buffers.xml
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.CodeDom.xml
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.Memory.xml
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.Text.Json.xml
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LUAN\Desktop\Demo1\bin\Debug\System.ValueTuple.xml
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.csproj.AssemblyReference.cache
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Properties.Resources.resources
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.csproj.GenerateResource.cache
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.csproj.Up2Date
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.exe
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.pdb
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Form01.resources
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Form02.resources
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Form03.resources
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Form04.resources
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Form05.resources
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Form06.resources
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Form07.resources
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Form08.resources
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Form09.resources
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Form10.resources
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Form11.resources
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Form12.resources
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Form13.resources
+C:\Users\LUAN\Desktop\Demo1\obj\Debug\Demo1.Form14.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Form01.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Form02.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Form03.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Form04.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Form05.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Form06.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Form07.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Form08.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Form09.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Form10.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Form11.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Form12.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Form13.resources
+C:\Users\Toan\OneDrive\Máy tính\Demo1\obj\Debug\Demo1.Form14.resources
