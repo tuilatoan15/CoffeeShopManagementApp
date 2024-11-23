@@ -1,7 +1,7 @@
 ﻿using System.Windows.Forms;
 using System;
 
-namespace Demo1
+namespace CoffeeShopManagement
 {
     internal class TransparentLabel : Label
     {

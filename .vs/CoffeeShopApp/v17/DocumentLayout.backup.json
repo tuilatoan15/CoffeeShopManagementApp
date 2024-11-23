@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|c:\\users\\toan\\onedrive\\m\u00E1y t\u00EDnh\\coffeeshopmanagement\\form01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|solutionrelative:form01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\checkoutandprintbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|solutionrelative:checkoutandprintbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|Demo1.csproj|C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\form01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|Demo1.csproj|solutionrelative:form01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\checkoutandprintbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|solutionrelative:checkoutandprintbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|solutionrelative:stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|c:\\users\\toan\\onedrive\\m\u00E1y t\u00EDnh\\coffeeshopmanagement\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|solutionrelative:stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\orderdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|solutionrelative:orderdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\orderdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|solutionrelative:orderdrinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\drinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|solutionrelative:drinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\drinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|solutionrelative:drinks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B4F625-DF06-4F79-B691-B8E8B13E793F}|CoffeeShopManagement.csproj|solutionrelative:dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +46,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stats.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\Stats.cs",
+              "RelativeDocumentMoniker": "Stats.cs",
+              "ToolTip": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\Stats.cs [Design]",
+              "RelativeToolTip": "Stats.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:47:05.098Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\Stats.cs",
+              "RelativeDocumentMoniker": "Stats.cs",
+              "ToolTip": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\Stats.cs",
+              "RelativeToolTip": "Stats.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAAOUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:10:57.616Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -34,26 +89,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form01.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\Form01.cs",
-              "RelativeDocumentMoniker": "Form01.cs",
-              "ToolTip": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\Form01.cs [Design]",
-              "RelativeToolTip": "Form01.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "CheckOutAndPrintBill.cs",
+              "DocumentMoniker": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\CheckOutAndPrintBill.cs",
+              "RelativeDocumentMoniker": "CheckOutAndPrintBill.cs",
+              "ToolTip": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\CheckOutAndPrintBill.cs",
+              "RelativeToolTip": "CheckOutAndPrintBill.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAWwHIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T07:37:19.307Z",
+              "WhenOpened": "2024-11-23T09:53:28.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckOutAndPrintBill.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\CheckOutAndPrintBill.cs",
+              "RelativeDocumentMoniker": "CheckOutAndPrintBill.cs",
+              "ToolTip": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\CheckOutAndPrintBill.cs [Design]",
+              "RelativeToolTip": "CheckOutAndPrintBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:53:25.73Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form01.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\Form01.cs",
-              "RelativeDocumentMoniker": "Form01.cs",
-              "ToolTip": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\Demo1\\Form01.cs [Design]",
-              "RelativeToolTip": "..\\Demo1\\Form01.cs [Design]",
+              "DocumentIndex": 6,
+              "Title": "Drinks.cs",
+              "DocumentMoniker": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\Drinks.cs",
+              "RelativeDocumentMoniker": "Drinks.cs",
+              "ToolTip": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\Drinks.cs",
+              "RelativeToolTip": "Drinks.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAtwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T07:19:16.638Z"
+              "WhenOpened": "2024-11-23T09:52:42.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Drinks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\Drinks.cs",
+              "RelativeDocumentMoniker": "Drinks.cs",
+              "ToolTip": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\Drinks.cs [Design]",
+              "RelativeToolTip": "Drinks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:52:40.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BillDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\DAO\\BillDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\BillDAO.cs",
+              "ToolTip": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\DAO\\BillDAO.cs",
+              "RelativeToolTip": "DAO\\BillDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:23:43.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDrinks.cs",
+              "DocumentMoniker": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\OrderDrinks.cs",
+              "RelativeDocumentMoniker": "OrderDrinks.cs",
+              "ToolTip": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\OrderDrinks.cs",
+              "RelativeToolTip": "OrderDrinks.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAlwIQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:13:48.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDrinks.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\OrderDrinks.cs",
+              "RelativeDocumentMoniker": "OrderDrinks.cs",
+              "ToolTip": "C:\\Users\\Toan\\OneDrive\\M\u00E1y t\u00EDnh\\CoffeeShopManagement\\OrderDrinks.cs [Design]",
+              "RelativeToolTip": "OrderDrinks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:13:29.308Z"
             }
           ]
         }

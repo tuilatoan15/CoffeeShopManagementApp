@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Demo1.Properties
+namespace CoffeeShopManagement.Properties
 {
 
 
